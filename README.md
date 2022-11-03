@@ -1,2 +1,3 @@
 # PracticalGit1
-Practical Git: for absolute for beginners
+Here I'm new repository!
+Git: for absolute for beginners
